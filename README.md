@@ -102,9 +102,9 @@ El *PSO* nos ofrece una excelente alternativa para enfrentar el problema de opti
 
 ### Referencias
 
-1. Wirsansky, E. (2020). \textit{Hands-on genetic algorithms with python: Applying genetic algorithms to solve real-world deep learning and Artificial Intelligence Problems}. Packt Publishing Ltd. 
+1. Wirsansky, E. (2020). Hands-on genetic algorithms with python: Applying genetic algorithms to solve real-world deep learning and Artificial Intelligence Problems. Packt Publishing Ltd. 
 
-2. Gridin, I. (2021). \textit{Learning genetic algorithms with python}. BPB Publications. 
+2. Gridin, I. (2021). Learning genetic algorithms with python. BPB Publications. 
 
 3. Cuevas, O. E. V. (2016). Optimización de Algoritmos programados con MATLAB (1.a ed.). Marcombo.
 
