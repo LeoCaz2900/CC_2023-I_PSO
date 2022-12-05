@@ -1,7 +1,7 @@
 ## Contenido
 La carpeta contiene dos documentos:
-- [resultados_secuencial.txt](https://github.com/neto-riga/CC_2023-I_PSO/blob/main/results/resultados_secuencial.txt) para los resultados de los tiempos de forma secuencial.
-- [resultados_mpi.txt](https://github.com/neto-riga/CC_2023-I_PSO/blob/main/results/resultados_mpi.txt) para los resultados de los tiempos de forma secuencial.
+- *resultados_secuencial.txt* para los resultados de los tiempos de forma secuencial.
+- *resultados_mpi.txt* para los resultados de los tiempos de forma secuencial.
 
 ## Resultados
 ### Secuencial
