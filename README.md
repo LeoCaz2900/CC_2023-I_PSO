@@ -100,3 +100,10 @@ El secuencial podrá ser ligeramente más rápido que el paralelo, sin embargo, 
 
 El *PSO* nos ofrece una excelente alternativa para enfrentar el problema de optimización, además de la ventaja de poder paralelizar nuestro programa, el *PSO* nos permite optimizar una función sin conocer información como sus derivadas, característica que la mayoría de los métodos de optimización solicitan. Además, el *PSO* sigue siendo un tema de interés de parte de la comunidad científica, la que cual ha explotado la intuición detrás del método para hacer mejoras en el algoritmo que vimos en el documento.
 
+1. Wirsansky, E. (2020). \textit{Hands-on genetic algorithms with python: Applying genetic algorithms to solve real-world deep learning and Artificial Intelligence Problems}. Packt Publishing Ltd. 
+
+2. Gridin, I. (2021). \textit{Learning genetic algorithms with python}. BPB Publications. 
+
+3. Cuevas, O. E. V. (2016). Optimización de Algoritmos programados con MATLAB (1.a ed.). Marcombo.
+
+4. Maurice Clerc. Standard Particle Swarm Optimisation. date. ffhal-00764996ff
